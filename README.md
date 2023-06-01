@@ -47,8 +47,6 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-
 ![CSS3](https://img.shields.io/badge/CSS3-7952B3.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Metamask](https://img.shields.io/badge/Metamask-E34F26.svg?style=for-the-badge&logo=Metamask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1572B6.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
@@ -58,7 +56,7 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
-</br></br>
+</br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
@@ -68,8 +66,3 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ViDA-TG"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
