@@ -20,12 +20,6 @@ Blockchain Advocate | MERN Beast | Opensource Contributor | Buidl Fanatic
 * Decentralized internet 
 
 
-<a href="https://www.linkedin.com/in/victor-ademiju-vida/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/linkedin/follow/obiabo_immanuel ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
-/></a>
-
-
-
 <a href="https://www.github.com/Vida-TG" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 
@@ -54,7 +48,6 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-</br>
 
 ![CSS3](https://img.shields.io/badge/CSS3-7952B3.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Metamask](https://img.shields.io/badge/Metamask-E34F26.svg?style=for-the-badge&logo=Metamask&logoColor=white)
@@ -65,7 +58,7 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
-</br>
+</br></br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
