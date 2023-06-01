@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img src=”https://raw.githubusercontent.com/Vida-TG/Vida-TG/main/header.png" alt=”my banner”>
+  ![Header](https://raw.githubusercontent.com/Vida-TG/Vida-TG/main/header.png)
 
 </p>
                                                
