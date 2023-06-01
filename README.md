@@ -1,10 +1,10 @@
  
 
  
-ViDA ( Victor Ademiju )
+- ViDA - ( Victor Ademiju )
 ====================================================================================================================================
 
-Blocckchain Advocate | MERN Beast | Opensource Contributor | Buidl Fanatic 
+Blockchain Advocate | MERN Beast | Opensource Contributor | Buidl Fanatic 
 ------------------------------------------------------------
 
 * 🌍  Localhost
@@ -25,10 +25,10 @@ src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=f
 
 
 
-<!-- <a href="https://www.github.com/Vida-TG" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Vida-TG" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
 
-></a></p> -->
+></a></p> 
 
 ### Badges
 
