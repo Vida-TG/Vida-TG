@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”500" height=”200" src=”https://raw.githubusercontent.com/Vida-TG/Vida-TG/main/header.png" alt=”my banner”>
+<img src=”https://raw.githubusercontent.com/Vida-TG/Vida-TG/main/header.png" alt=”my banner”>
 
 </p>
                                                
