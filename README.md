@@ -47,12 +47,11 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 
 ## 💼 Technical Skills
 
-![React](https://img.shields.io/badge/react-%23092E20.svg?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-CC0000.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-Etherjs-informational?style=flat&logo=Etherjs&color=003B57)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
