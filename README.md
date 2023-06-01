@@ -57,10 +57,10 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 </br>
 
 ![CSS3](https://img.shields.io/badge/CSS3-7952B3.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![Metamask](https://img.shields.io/badgev-E34F26.svg?style=for-the-badge&logo=Metamask&logoColor=white)
+![Metamask](https://img.shields.io/badge/Metamask-E34F26.svg?style=for-the-badge&logo=Metamask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1572B6.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DB7093.svg?style=for-the-badge&logo=Rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-1572B6.svg?style=for-the-badge&logo=Solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
