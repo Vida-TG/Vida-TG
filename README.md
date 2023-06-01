@@ -60,10 +60,10 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=for-the-badge&logo=Vercel&color=231156)
+![](https://img.shields.io/badge/Tools-Vite-informational?style=for-the-badge&logo=Vite&color=251526)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&color=534F26)
-![](https://img.shields.io/badge/Tools-Vite-informational?style=for-the-badge&logo=Vite&color=235526)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=for-the-badge&logo=Vercel&color=234126)
 
 
