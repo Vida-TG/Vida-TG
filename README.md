@@ -35,12 +35,8 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Vida-TG"><img src="https://github-readme-stats.vercel.app/api?username=Vida-TG&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="ViDA's GitHub stats" /></a>
 
 <a href="http://www.github.com/Vida-TG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vida-TG&stroke=14b8a6&background=181824&ring=f97316&fire=f97316&currStreakNum=14b8a6&currStreakLabel=f97316&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vida-TG.Vida-TG)](https://www.github.com/Vida-TG/)
-
 
 
 
@@ -52,8 +48,7 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-CC0000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-Etherjs-informational?style=flat&logo=Etherjs&color=003B57)
+![EtherJS](https://img.shields.io/badge/EtherJS-336791.svg?style=for-the-badge&logo=EtherJS&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -61,9 +56,11 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 
 </br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![CSS3](https://img.shields.io/badge/CSS3-7952B3.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Metamask](https://img.shields.io/badgev-E34F26.svg?style=for-the-badge&logo=Metamask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1572B6.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DB7093.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-1572B6.svg?style=for-the-badge&logo=Solana&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
