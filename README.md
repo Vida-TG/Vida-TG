@@ -62,6 +62,6 @@ src="https://img.shields.io/github/followers/Vida-TG?logo=github&style=for-the-b
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&color=E34F26)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&color=234F26)
 
 
