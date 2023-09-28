@@ -15,8 +15,8 @@ Blockchain Advocate | MERN Beast | Opensource Contributor | Buidl Fanatic
 
 * Solana
 * Neuralink
-* Physics 
 * Tokenized assets
+* Physics & Psychology
 * Decentralized internet 
 
 
