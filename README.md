@@ -1,6 +1,5 @@
 <h2 align="center">Blockchain Advocate | Open Source Contributor</h2>
 
----
 
 ### 📊 GitHub Stats  
 <p align="center">
